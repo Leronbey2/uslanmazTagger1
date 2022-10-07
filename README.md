@@ -9,7 +9,7 @@ _**Bu bot, gruplarda 10.000'e kadar üyeden bahsedebilir ve kanallarda 200'e kad
 - [Developer](https://t.me/Serserizarog)✨
 
 ### 🚀 Deploy to heroku
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Leronbey2/UslanmazTagger)]
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Leronbey2/UslanmazTagger1)]
 
 ### 🎯 Bana Destek Olmak İstermisin Aşğıdaki Bağlantıdan Bağış Yapa Bilirsin
 
