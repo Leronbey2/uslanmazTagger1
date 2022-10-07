@@ -36,10 +36,10 @@ async def start(event):
   await event.reply("**🌀UslanmazTaggerBot**\n **İle Grubunuzdakı Nerdeyse Tüm Üyelere Etiket Ata bilirim \nKomutlar için =======> /help yazın**",
                     buttons=(
                    
-		      [Button.url('Beni Gruba Ekle ➕', f"https://t.me/{Uslanmaztagger_bot}?startgroup=a")],
-                      [Button.url('Sahip🏳️', f"https://t.me/Serserizarog")],
-                      [Button.url('Support🥳', f"https://t.me/UslanmazKadro")],
-		      [Button.url('Kanal🤓', 'https://t.me/UslanmazArsiv')],
+		      [Button.url('➕ Beni Gruba Ekle ➕', f"https://t.me/Uslanmaztagger_bot?startgroup=a")],
+                      [Button.url('Owner🔥', f"https://t.me/Serserizarog")],
+                      [Button.url('Support⚡', f"https://t.me/UslanmazKadro")],
+		      [Button.url('Kanal⚡', 'https://t.me/UslanmazArsiv')],
                     ),
                     link_preview=False
                    )
@@ -49,10 +49,10 @@ async def help(event):
   helptext = "**🌀 UslanmazTaggerBot Komutları**\n\n**/tag <sebeb> - 5-li Etiket Atar**\n\n**/etag <sebeb> - Emoji ile etiketler**\n\n**/tektag sebeb - Üyeleri Tek Tek Etiketler**\n\n**/admins sebeb - Yöneticileri Tek Tek Tag Eder**\n\n**/start - botu başlatır**\n \n/durum - Botun Durumunu Gösterir \n\n/bagis : **Bağış Yapmak İstersen Basa Bilirsin.** \n \n /reklam - **Reklam Veya İş Birliği İçin Bu Komutu Kullanın.**"
   await event.reply(helptext,
                     buttons=(
-                      [Button.url('Beni Gruba Ekle ➕', f"https://t.me/{UslanmazTagger_Bot}?startgroup=a")],
-                      [Button.url('Sahip🏳️', f"https://t.me/Serserizarog")],
-                      [Button.url('Support🥳', f"https://t.me/UslanmazKadro")],
-		      [Button.url('Kanal🤓', 'https://t.me/UslanmazArsiv')],
+                      [Button.url('➕ Beni Gruba Ekle ➕', f"https://t.me/UslanmazTagger_Bot?startgroup=a")],
+                      [Button.url('Owner🔥', f"https://t.me/Serserizarog")],
+                      [Button.url('Support⚡', f"https://t.me/UslanmazKadro")],
+		      [Button.url('Kanal⚡', 'https://t.me/UslanmazArsiv')],
                     ),
                     link_preview=False
                    )
