@@ -36,7 +36,7 @@ async def start(event):
   await event.reply("**🌀UslanmazTaggerBot**\n **İle Grubunuzdakı Nerdeyse Tüm Üyelere Etiket Ata bilirim \nKomutlar için =======> /help yazın**",
                     buttons=(
                    
-		      [Button.url('Beni Gruba Ekle ➕', f"https://t.me/{UslanmazTaggerBot}?startgroup=a")],
+		      [Button.url('Beni Gruba Ekle ➕', f"https://t.me/{bot_username}?startgroup=a")],
                       [Button.url('Sahip🏳️', f"https://t.me/Serserizarog")],
                       [Button.url('Support🥳', f"https://t.me/UslanmazKadro")],
 		      [Button.url('Kanal🤓', 'https://t.me/UslanmazArsiv')],
